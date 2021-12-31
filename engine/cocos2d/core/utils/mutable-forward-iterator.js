@@ -38,6 +38,7 @@ function MutableForwardIterator (array) {
     this.array = array;
 }
 
+
 var proto = MutableForwardIterator.prototype;
 
 proto.remove = function (value) {
