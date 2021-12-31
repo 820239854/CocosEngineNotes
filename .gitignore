@@ -10,7 +10,7 @@ app.asar.unpacked/
 builtin/
 cocos2d-x/
 templates/
-utils/
+/utils/
 engine/bin/
 engine/gulp/
 engine/polyfill
